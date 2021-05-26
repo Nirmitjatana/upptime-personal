@@ -5,6 +5,14 @@ repo: uptime
 sites:
   - name: IRIS
     url: https://iris.dscvit.com
+  - name: SocioCredz
+    url: https://sociocredz.netlify.app/
+  - name: Spike App
+    url: https://www.spikeapp.tech/
+  - name: Covid-19 India
+    url: https://www.covid19india.org/
+  - name: Portal
+    url: https://rekursion-vithack2020.netlify.app/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
