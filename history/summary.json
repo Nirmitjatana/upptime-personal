@@ -4,20 +4,18 @@
     "url": "https://iris.dscvit.com",
     "icon": "https://favicons.githubusercontent.com/iris.dscvit.com",
     "slug": "iris",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 286,
-    "timeDay": 58,
-    "timeWeek": 186,
-    "timeMonth": 193,
+    "timeDay": 168,
+    "timeWeek": 197,
+    "timeMonth": 196,
     "timeYear": 286,
-    "dailyMinutesDown": {
-      "2021-08-20": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SocioCredz",
@@ -26,18 +24,16 @@
     "slug": "socio-credz",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
     "timeDay": 236,
     "timeWeek": 163,
     "timeMonth": 160,
     "timeYear": 218,
-    "dailyMinutesDown": {
-      "2021-08-20": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Spike App",
@@ -46,18 +42,16 @@
     "slug": "spike-app",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 274,
     "timeDay": 258,
     "timeWeek": 182,
     "timeMonth": 246,
     "timeYear": 274,
-    "dailyMinutesDown": {
-      "2021-08-20": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Covid-19 India",
