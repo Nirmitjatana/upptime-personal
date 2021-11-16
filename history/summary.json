@@ -43,9 +43,9 @@
     "url": "https://www.spikeapp.tech/",
     "icon": "https://favicons.githubusercontent.com/www.spikeapp.tech",
     "slug": "spike-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +54,9 @@
     "timeWeek": 96,
     "timeMonth": 147,
     "timeYear": 227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "Covid-19 India",
