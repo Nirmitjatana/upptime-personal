@@ -43,19 +43,19 @@
     "url": "https://www.spikeapp.tech/",
     "icon": "https://favicons.githubusercontent.com/www.spikeapp.tech",
     "slug": "spike-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 109,
-    "timeWeek": 96,
-    "timeMonth": 147,
-    "timeYear": 227,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
+    "time": 226,
+    "timeDay": 105,
+    "timeWeek": 97,
+    "timeMonth": 146,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2021-11-16": 0
+      "2021-11-16": 37
     }
   },
   {
