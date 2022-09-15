@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/www.spikeapp.tech",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "42.97%",
+    "uptime": "42.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "26.02%",
+    "uptimeYear": "25.83%",
     "time": 227,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2022-09-15": 105,
+      "2022-09-15": 1103,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
@@ -351,9 +351,9 @@
     "url": "https://www.covid19india.org/",
     "icon": "https://favicons.githubusercontent.com/www.covid19india.org",
     "slug": "covid-19-india",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -362,7 +362,9 @@
     "timeWeek": 175,
     "timeMonth": 199,
     "timeYear": 195,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Portal",
