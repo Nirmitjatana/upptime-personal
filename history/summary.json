@@ -11,10 +11,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.66%",
     "time": 352,
-    "timeDay": 1146,
-    "timeWeek": 438,
-    "timeMonth": 516,
-    "timeYear": 405,
+    "timeDay": 120,
+    "timeWeek": 294,
+    "timeMonth": 510,
+    "timeYear": 404,
     "dailyMinutesDown": {
       "2022-12-13": 18,
       "2022-12-10": 19,
@@ -29,8 +29,7 @@
       "2022-04-10": 26,
       "2022-03-20": 460,
       "2022-03-19": 883,
-      "2022-03-13": 18,
-      "2022-01-09": 16
+      "2022-03-13": 18
     }
   },
   {
@@ -45,10 +44,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 230,
-    "timeDay": 78,
-    "timeWeek": 146,
-    "timeMonth": 329,
-    "timeYear": 254,
+    "timeDay": 111,
+    "timeWeek": 140,
+    "timeMonth": 252,
+    "timeYear": 252,
     "dailyMinutesDown": {
       "2022-12-12": 27,
       "2022-10-05": 19,
@@ -63,18 +62,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "34.58%",
+    "uptime": "34.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 189,
+    "time": 190,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-08": 65,
+      "2023-01-09": 60,
+      "2023-01-08": 1440,
       "2023-01-07": 1440,
       "2023-01-06": 1440,
       "2023-01-05": 1440,
@@ -437,8 +437,7 @@
       "2022-01-13": 1440,
       "2022-01-12": 1440,
       "2022-01-11": 1440,
-      "2022-01-10": 1440,
-      "2022-01-09": 1440
+      "2022-01-10": 1440
     }
   },
   {
@@ -453,9 +452,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 201,
-    "timeDay": 217,
-    "timeWeek": 227,
-    "timeMonth": 226,
+    "timeDay": 195,
+    "timeWeek": 215,
+    "timeMonth": 227,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2022-09-15": 60
@@ -473,9 +472,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 264,
-    "timeDay": 112,
-    "timeWeek": 151,
-    "timeMonth": 501,
+    "timeDay": 77,
+    "timeWeek": 118,
+    "timeMonth": 435,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2022-10-10": 16,
