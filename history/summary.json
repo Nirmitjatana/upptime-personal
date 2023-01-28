@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 353,
-    "timeDay": 139,
-    "timeWeek": 159,
-    "timeMonth": 262,
-    "timeYear": 404,
+    "timeDay": 114,
+    "timeWeek": 144,
+    "timeMonth": 258,
+    "timeYear": 402,
     "dailyMinutesDown": {
       "2022-12-13": 18,
       "2022-12-10": 19,
@@ -44,9 +44,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 232,
-    "timeDay": 78,
-    "timeWeek": 169,
-    "timeMonth": 165,
+    "timeDay": 104,
+    "timeWeek": 137,
+    "timeMonth": 166,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2022-12-12": 27,
@@ -62,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "33.50%",
+    "uptime": "33.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -73,7 +73,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-27": 63,
+      "2023-01-28": 62,
+      "2023-01-27": 1440,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
       "2023-01-24": 1440,
@@ -436,8 +437,7 @@
       "2022-02-01": 1440,
       "2022-01-31": 1440,
       "2022-01-30": 1440,
-      "2022-01-29": 1440,
-      "2022-01-28": 1440
+      "2022-01-29": 1440
     }
   },
   {
@@ -451,10 +451,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 202,
-    "timeDay": 206,
-    "timeWeek": 200,
-    "timeMonth": 202,
+    "time": 201,
+    "timeDay": 193,
+    "timeWeek": 208,
+    "timeMonth": 197,
     "timeYear": 203,
     "dailyMinutesDown": {
       "2022-09-15": 60
@@ -472,10 +472,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 269,
-    "timeDay": 146,
-    "timeWeek": 471,
-    "timeMonth": 253,
-    "timeYear": 294,
+    "timeDay": 131,
+    "timeWeek": 454,
+    "timeMonth": 222,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2022-10-10": 16,
       "2022-10-05": 37,
