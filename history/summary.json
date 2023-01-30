@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 353,
-    "timeDay": 199,
+    "timeDay": 97,
     "timeWeek": 152,
     "timeMonth": 257,
-    "timeYear": 402,
+    "timeYear": 401,
     "dailyMinutesDown": {
       "2022-12-13": 18,
       "2022-12-10": 19,
@@ -44,8 +44,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 232,
-    "timeDay": 172,
-    "timeWeek": 146,
+    "timeDay": 119,
+    "timeWeek": 148,
     "timeMonth": 168,
     "timeYear": 254,
     "dailyMinutesDown": {
@@ -62,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "33.39%",
+    "uptime": "33.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -73,7 +73,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-29": 68,
+      "2023-01-30": 59,
+      "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
@@ -436,8 +437,7 @@
       "2022-02-03": 1440,
       "2022-02-02": 1440,
       "2022-02-01": 1440,
-      "2022-01-31": 1440,
-      "2022-01-30": 1440
+      "2022-01-31": 1440
     }
   },
   {
@@ -451,11 +451,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 201,
-    "timeDay": 178,
-    "timeWeek": 203,
-    "timeMonth": 192,
-    "timeYear": 203,
+    "time": 202,
+    "timeDay": 226,
+    "timeWeek": 195,
+    "timeMonth": 198,
+    "timeYear": 204,
     "dailyMinutesDown": {
       "2022-09-15": 60
     }
@@ -471,11 +471,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 269,
-    "timeDay": 121,
-    "timeWeek": 456,
-    "timeMonth": 222,
-    "timeYear": 295,
+    "time": 271,
+    "timeDay": 1165,
+    "timeWeek": 576,
+    "timeMonth": 254,
+    "timeYear": 297,
     "dailyMinutesDown": {
       "2022-10-10": 16,
       "2022-10-05": 37,
