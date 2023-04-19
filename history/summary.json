@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.83%",
-    "time": 354,
-    "timeDay": 175,
-    "timeWeek": 140,
-    "timeMonth": 243,
-    "timeYear": 367,
+    "time": 353,
+    "timeDay": 157,
+    "timeWeek": 137,
+    "timeMonth": 245,
+    "timeYear": 357,
     "dailyMinutesDown": {
       "2023-03-19": 513,
       "2022-12-13": 18,
@@ -25,8 +25,7 @@
       "2022-06-29": 61,
       "2022-06-21": 52,
       "2022-05-31": 37,
-      "2022-05-05": 40,
-      "2022-04-19": 20
+      "2022-05-05": 40
     }
   },
   {
@@ -40,11 +39,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 233,
-    "timeDay": 207,
-    "timeWeek": 182,
-    "timeMonth": 183,
-    "timeYear": 260,
+    "time": 234,
+    "timeDay": 435,
+    "timeWeek": 170,
+    "timeMonth": 190,
+    "timeYear": 257,
     "dailyMinutesDown": {
       "2022-12-12": 27,
       "2022-10-05": 19,
@@ -59,18 +58,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "29.56%",
+    "uptime": "29.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 185,
+    "time": 191,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-18": 57,
+      "2023-04-19": 59,
+      "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
@@ -433,8 +433,7 @@
       "2022-04-23": 1440,
       "2022-04-22": 1440,
       "2022-04-21": 1440,
-      "2022-04-20": 1440,
-      "2022-04-19": 1440
+      "2022-04-20": 1440
     }
   },
   {
@@ -449,10 +448,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 203,
-    "timeDay": 211,
-    "timeWeek": 235,
-    "timeMonth": 219,
-    "timeYear": 216,
+    "timeDay": 193,
+    "timeWeek": 242,
+    "timeMonth": 222,
+    "timeYear": 215,
     "dailyMinutesDown": {
       "2022-09-15": 60
     }
@@ -468,11 +467,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 269,
-    "timeDay": 175,
-    "timeWeek": 173,
-    "timeMonth": 188,
-    "timeYear": 302,
+    "time": 268,
+    "timeDay": 148,
+    "timeWeek": 168,
+    "timeMonth": 181,
+    "timeYear": 303,
     "dailyMinutesDown": {
       "2022-10-10": 16,
       "2022-10-05": 37,
@@ -480,8 +479,7 @@
       "2022-08-20": 18,
       "2022-06-29": 42,
       "2022-05-17": 40,
-      "2022-05-07": 22,
-      "2022-04-19": 20
+      "2022-05-07": 22
     }
   }
 ]
