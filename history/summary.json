@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 353,
-    "timeDay": 99,
-    "timeWeek": 150,
-    "timeMonth": 168,
+    "timeDay": 183,
+    "timeWeek": 155,
+    "timeMonth": 171,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2023-03-19": 513,
@@ -39,9 +39,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 232,
-    "timeDay": 74,
-    "timeWeek": 145,
-    "timeMonth": 165,
+    "timeDay": 119,
+    "timeWeek": 138,
+    "timeMonth": 166,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2022-12-12": 27,
@@ -57,7 +57,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "28.76%",
+    "uptime": "28.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -68,7 +68,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-07": 61,
+      "2023-05-08": 56,
+      "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
@@ -431,8 +432,7 @@
       "2022-05-12": 1440,
       "2022-05-11": 1440,
       "2022-05-10": 1440,
-      "2022-05-09": 1440,
-      "2022-05-08": 1440
+      "2022-05-09": 1440
     }
   },
   {
@@ -447,9 +447,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 203,
-    "timeDay": 163,
-    "timeWeek": 192,
-    "timeMonth": 215,
+    "timeDay": 241,
+    "timeWeek": 188,
+    "timeMonth": 218,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2022-09-15": 60
@@ -465,12 +465,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 267,
-    "timeDay": 30,
-    "timeWeek": 134,
-    "timeMonth": 156,
-    "timeYear": 294,
+    "timeDay": 273,
+    "timeWeek": 151,
+    "timeMonth": 162,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2022-10-10": 16,
       "2022-10-05": 37,
