@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 353,
-    "timeDay": 169,
-    "timeWeek": 168,
-    "timeMonth": 176,
+    "time": 352,
+    "timeDay": 99,
+    "timeWeek": 155,
+    "timeMonth": 177,
     "timeYear": 315,
     "dailyMinutesDown": {
       "2023-03-19": 513,
@@ -39,9 +39,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 231,
-    "timeDay": 152,
-    "timeWeek": 124,
-    "timeMonth": 144,
+    "timeDay": 125,
+    "timeWeek": 121,
+    "timeMonth": 145,
     "timeYear": 251,
     "dailyMinutesDown": {
       "2022-12-12": 27,
@@ -57,7 +57,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "28.40%",
+    "uptime": "28.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -68,7 +68,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-16": 59,
+      "2023-05-17": 60,
+      "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
       "2023-05-13": 1440,
@@ -431,8 +432,7 @@
       "2022-05-21": 1440,
       "2022-05-20": 1440,
       "2022-05-19": 1440,
-      "2022-05-18": 1440,
-      "2022-05-17": 1440
+      "2022-05-18": 1440
     }
   },
   {
@@ -447,8 +447,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 203,
-    "timeDay": 263,
-    "timeWeek": 236,
+    "timeDay": 217,
+    "timeWeek": 237,
     "timeMonth": 216,
     "timeYear": 217,
     "dailyMinutesDown": {
@@ -467,17 +467,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 268,
-    "timeDay": 127,
-    "timeWeek": 141,
-    "timeMonth": 148,
+    "timeDay": 78,
+    "timeWeek": 129,
+    "timeMonth": 145,
     "timeYear": 296,
     "dailyMinutesDown": {
       "2022-10-10": 16,
       "2022-10-05": 37,
       "2022-08-31": 28,
       "2022-08-20": 18,
-      "2022-06-29": 42,
-      "2022-05-17": 40
+      "2022-06-29": 42
     }
   }
 ]
