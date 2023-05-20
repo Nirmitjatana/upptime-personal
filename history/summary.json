@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 352,
-    "timeDay": 119,
-    "timeWeek": 147,
-    "timeMonth": 175,
-    "timeYear": 315,
+    "timeDay": 90,
+    "timeWeek": 133,
+    "timeMonth": 168,
+    "timeYear": 312,
     "dailyMinutesDown": {
       "2023-03-19": 513,
       "2022-12-13": 18,
@@ -39,9 +39,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 233,
-    "timeDay": 491,
-    "timeWeek": 214,
-    "timeMonth": 152,
+    "timeDay": 116,
+    "timeWeek": 203,
+    "timeMonth": 151,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2022-12-12": 27,
@@ -57,7 +57,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "28.28%",
+    "uptime": "28.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -68,7 +68,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-19": 59,
+      "2023-05-20": 56,
+      "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
@@ -431,8 +432,7 @@
       "2022-05-24": 1440,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
-      "2022-05-21": 1440,
-      "2022-05-20": 1440
+      "2022-05-21": 1440
     }
   },
   {
@@ -447,10 +447,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 203,
-    "timeDay": 238,
-    "timeWeek": 235,
-    "timeMonth": 218,
-    "timeYear": 217,
+    "timeDay": 204,
+    "timeWeek": 247,
+    "timeMonth": 219,
+    "timeYear": 216,
     "dailyMinutesDown": {
       "2022-09-15": 60
     }
@@ -467,10 +467,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 269,
-    "timeDay": 107,
-    "timeWeek": 164,
-    "timeMonth": 153,
-    "timeYear": 294,
+    "timeDay": 79,
+    "timeWeek": 153,
+    "timeMonth": 148,
+    "timeYear": 293,
     "dailyMinutesDown": {
       "2022-10-10": 16,
       "2022-10-05": 37,
