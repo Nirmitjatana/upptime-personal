@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/iris.dscvit.com.ico",
     "slug": "iris",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 339,
-    "timeDay": 263,
-    "timeWeek": 415,
-    "timeMonth": 229,
+    "timeDay": 148,
+    "timeWeek": 413,
+    "timeMonth": 230,
     "timeYear": 309,
     "dailyMinutesDown": {
       "2023-03-19": 513,
@@ -35,8 +35,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 239,
-    "timeDay": 98,
-    "timeWeek": 106,
+    "timeDay": 44,
+    "timeWeek": 93,
     "timeMonth": 98,
     "timeYear": 256,
     "dailyMinutesDown": {
@@ -53,7 +53,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "26.55%",
+    "uptime": "26.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -64,7 +64,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-05": 75,
+      "2023-07-06": 75,
+      "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
@@ -427,8 +428,7 @@
       "2022-07-10": 1440,
       "2022-07-09": 1440,
       "2022-07-08": 1440,
-      "2022-07-07": 1440,
-      "2022-07-06": 1440
+      "2022-07-07": 1440
     }
   },
   {
@@ -443,9 +443,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 209,
-    "timeDay": 188,
-    "timeWeek": 194,
-    "timeMonth": 217,
+    "timeDay": 141,
+    "timeWeek": 177,
+    "timeMonth": 216,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2022-09-15": 60
@@ -463,10 +463,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 274,
-    "timeDay": 82,
-    "timeWeek": 114,
-    "timeMonth": 157,
-    "timeYear": 295,
+    "timeDay": 40,
+    "timeWeek": 100,
+    "timeMonth": 141,
+    "timeYear": 294,
     "dailyMinutesDown": {
       "2022-10-10": 16,
       "2022-10-05": 37,
