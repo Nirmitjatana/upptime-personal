@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 337,
-    "timeDay": 176,
-    "timeWeek": 147,
-    "timeMonth": 231,
-    "timeYear": 309,
+    "timeDay": 188,
+    "timeWeek": 149,
+    "timeMonth": 230,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2023-03-19": 513,
       "2022-12-13": 18,
@@ -34,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 238,
-    "timeDay": 155,
-    "timeWeek": 165,
-    "timeMonth": 118,
-    "timeYear": 257,
+    "time": 239,
+    "timeDay": 424,
+    "timeWeek": 163,
+    "timeMonth": 126,
+    "timeYear": 258,
     "dailyMinutesDown": {
       "2022-12-12": 27,
       "2022-10-05": 19,
@@ -53,7 +53,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "26.27%",
+    "uptime": "26.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -64,7 +64,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-13": 75,
+      "2023-07-14": 75,
+      "2023-07-13": 1440,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
@@ -427,8 +428,7 @@
       "2022-07-18": 1440,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
-      "2022-07-15": 1440,
-      "2022-07-14": 1440
+      "2022-07-15": 1440
     }
   },
   {
@@ -443,10 +443,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 210,
-    "timeDay": 299,
-    "timeWeek": 222,
-    "timeMonth": 211,
-    "timeYear": 214,
+    "timeDay": 158,
+    "timeWeek": 210,
+    "timeMonth": 206,
+    "timeYear": 213,
     "dailyMinutesDown": {
       "2022-09-15": 60
     }
@@ -463,8 +463,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 275,
-    "timeDay": 155,
-    "timeWeek": 114,
+    "timeDay": 160,
+    "timeWeek": 118,
     "timeMonth": 114,
     "timeYear": 291,
     "dailyMinutesDown": {
