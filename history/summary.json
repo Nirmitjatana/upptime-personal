@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 328,
-    "timeDay": 105,
-    "timeWeek": 165,
-    "timeMonth": 231,
-    "timeYear": 303,
+    "timeDay": 185,
+    "timeWeek": 166,
+    "timeMonth": 233,
+    "timeYear": 304,
     "dailyMinutesDown": {
       "2023-03-19": 513,
       "2022-12-13": 18,
@@ -34,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 238,
-    "timeDay": 78,
-    "timeWeek": 167,
-    "timeMonth": 127,
-    "timeYear": 255,
+    "time": 239,
+    "timeDay": 473,
+    "timeWeek": 214,
+    "timeMonth": 140,
+    "timeYear": 256,
     "dailyMinutesDown": {
       "2022-12-12": 27,
       "2022-10-05": 19,
@@ -53,7 +53,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "26.14%",
+    "uptime": "26.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -64,7 +64,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-17": 76,
+      "2023-07-18": 88,
+      "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
@@ -427,8 +428,7 @@
       "2022-07-22": 1440,
       "2022-07-21": 1440,
       "2022-07-20": 1440,
-      "2022-07-19": 1440,
-      "2022-07-18": 1440
+      "2022-07-19": 1440
     }
   },
   {
@@ -443,9 +443,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 210,
-    "timeDay": 59,
-    "timeWeek": 195,
-    "timeMonth": 205,
+    "timeDay": 258,
+    "timeWeek": 206,
+    "timeMonth": 202,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2022-09-15": 60
@@ -463,9 +463,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 276,
-    "timeDay": 377,
-    "timeWeek": 174,
-    "timeMonth": 122,
+    "timeDay": 163,
+    "timeWeek": 172,
+    "timeMonth": 126,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2022-10-10": 16,
