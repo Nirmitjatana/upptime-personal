@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 327,
-    "timeDay": 123,
-    "timeWeek": 142,
-    "timeMonth": 236,
-    "timeYear": 300,
+    "time": 328,
+    "timeDay": 159,
+    "timeWeek": 145,
+    "timeMonth": 237,
+    "timeYear": 297,
     "dailyMinutesDown": {
       "2023-03-19": 513,
       "2022-12-13": 18,
@@ -34,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 239,
-    "timeDay": 87,
-    "timeWeek": 165,
-    "timeMonth": 146,
-    "timeYear": 255,
+    "time": 240,
+    "timeDay": 144,
+    "timeWeek": 174,
+    "timeMonth": 148,
+    "timeYear": 254,
     "dailyMinutesDown": {
       "2022-12-12": 27,
       "2022-10-05": 19,
@@ -53,7 +53,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "25.97%",
+    "uptime": "25.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -64,7 +64,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-22": 63,
+      "2023-07-23": 68,
+      "2023-07-22": 1440,
       "2023-07-21": 1440,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
@@ -427,8 +428,7 @@
       "2022-07-27": 1440,
       "2022-07-26": 1440,
       "2022-07-25": 1440,
-      "2022-07-24": 1440,
-      "2022-07-23": 1440
+      "2022-07-24": 1440
     }
   },
   {
@@ -443,9 +443,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 211,
-    "timeDay": 70,
-    "timeWeek": 171,
-    "timeMonth": 186,
+    "timeDay": 284,
+    "timeWeek": 187,
+    "timeMonth": 189,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2022-09-15": 60
@@ -463,8 +463,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 274,
-    "timeDay": 85,
-    "timeWeek": 180,
+    "timeDay": 81,
+    "timeWeek": 179,
     "timeMonth": 135,
     "timeYear": 286,
     "dailyMinutesDown": {
