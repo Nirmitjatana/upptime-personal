@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 299,
-    "timeDay": 273,
-    "timeWeek": 252,
-    "timeMonth": 178,
+    "time": 298,
+    "timeDay": 85,
+    "timeWeek": 243,
+    "timeMonth": 177,
     "timeYear": 255,
     "dailyMinutesDown": {
       "2023-03-19": 513,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 233,
-    "timeDay": 144,
-    "timeWeek": 96,
-    "timeMonth": 118,
+    "timeDay": 36,
+    "timeWeek": 90,
+    "timeMonth": 114,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2022-12-12": 27,
@@ -49,7 +49,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "24.10%",
+    "uptime": "24.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -60,7 +60,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-21": 50,
+      "2023-09-22": 50,
+      "2023-09-21": 1440,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
@@ -423,8 +424,7 @@
       "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
-      "2022-09-23": 1440,
-      "2022-09-22": 1440
+      "2022-09-23": 1440
     }
   },
   {
@@ -439,9 +439,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 266,
-    "timeWeek": 301,
-    "timeMonth": 259,
+    "timeDay": 191,
+    "timeWeek": 295,
+    "timeMonth": 256,
     "timeYear": 220,
     "dailyMinutesDown": {}
   },
@@ -456,11 +456,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 263,
-    "timeDay": 141,
-    "timeWeek": 80,
-    "timeMonth": 156,
-    "timeYear": 256,
+    "time": 264,
+    "timeDay": 164,
+    "timeWeek": 92,
+    "timeMonth": 146,
+    "timeYear": 253,
     "dailyMinutesDown": {
       "2022-10-10": 16,
       "2022-10-05": 37
