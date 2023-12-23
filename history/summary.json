@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 252,
-    "timeDay": 222,
-    "timeWeek": 185,
-    "timeMonth": 160,
+    "time": 251,
+    "timeDay": 111,
+    "timeWeek": 192,
+    "timeMonth": 159,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2023-10-27": 17,
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 73,
-    "timeWeek": 146,
-    "timeMonth": 109,
+    "time": 204,
+    "timeDay": 18,
+    "timeWeek": 86,
+    "timeMonth": 106,
     "timeYear": 152,
     "dailyMinutesDown": {}
   },
@@ -44,7 +44,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "21.73%",
+    "uptime": "21.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -55,7 +55,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-22": 53,
+      "2023-12-23": 51,
+      "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
@@ -418,8 +419,7 @@
       "2022-12-27": 1440,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
-      "2022-12-24": 1440,
-      "2022-12-23": 1440
+      "2022-12-24": 1440
     }
   },
   {
@@ -433,9 +433,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 100,
-    "timeWeek": 176,
+    "time": 217,
+    "timeDay": 225,
+    "timeWeek": 183,
     "timeMonth": 198,
     "timeYear": 217,
     "dailyMinutesDown": {}
@@ -451,11 +451,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 85,
-    "timeWeek": 92,
-    "timeMonth": 88,
-    "timeYear": 163,
+    "time": 239,
+    "timeDay": 284,
+    "timeWeek": 130,
+    "timeMonth": 96,
+    "timeYear": 164,
     "dailyMinutesDown": {}
   }
 ]
