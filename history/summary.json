@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-16": 50,
+      "2024-03-16": 288,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -445,17 +445,19 @@
     "url": "https://rekursion-vithack2020.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/rekursion-vithack2020.netlify.app.ico",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 48,
-    "timeWeek": 1310,
-    "timeMonth": 376,
-    "timeYear": 159,
-    "dailyMinutesDown": {}
+    "time": 198,
+    "timeDay": 588,
+    "timeWeek": 1287,
+    "timeMonth": 401,
+    "timeYear": 162,
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   }
 ]
