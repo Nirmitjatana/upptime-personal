@@ -24,19 +24,19 @@
     "url": "https://sociocredz.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/sociocredz.netlify.app.ico",
     "slug": "socio-credz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 51,
-    "timeWeek": 93,
-    "timeMonth": 128,
-    "timeYear": 106,
+    "timeDay": 41,
+    "timeWeek": 85,
+    "timeMonth": 125,
+    "timeYear": 105,
     "dailyMinutesDown": {
-      "2024-07-30": 0
+      "2024-07-30": 15
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-30": 317,
+      "2024-07-30": 332,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
