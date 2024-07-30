@@ -24,9 +24,9 @@
     "url": "https://sociocredz.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/sociocredz.netlify.app.ico",
     "slug": "socio-credz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 93,
     "timeMonth": 128,
     "timeYear": 106,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-30": 0
+    }
   },
   {
     "name": "Spike App",
@@ -54,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-30": 59,
+      "2024-07-30": 317,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
