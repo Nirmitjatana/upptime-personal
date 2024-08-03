@@ -43,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "17.52%",
+    "uptime": "17.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-03": 59,
+      "2024-08-03": 630,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
@@ -444,17 +444,19 @@
     "url": "https://rekursion-vithack2020.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/rekursion-vithack2020.netlify.app.ico",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 37,
-    "timeWeek": 116,
-    "timeMonth": 237,
-    "timeYear": 151,
-    "dailyMinutesDown": {}
+    "time": 159,
+    "timeDay": 1071,
+    "timeWeek": 365,
+    "timeMonth": 295,
+    "timeYear": 156,
+    "dailyMinutesDown": {
+      "2024-08-03": 0
+    }
   }
 ]
