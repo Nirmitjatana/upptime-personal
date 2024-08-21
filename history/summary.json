@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 121,
-    "timeWeek": 231,
-    "timeMonth": 200,
+    "timeDay": 196,
+    "timeWeek": 166,
+    "timeMonth": 202,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2023-10-27": 17
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 125,
-    "timeDay": 236,
-    "timeWeek": 178,
-    "timeMonth": 141,
+    "time": 124,
+    "timeDay": 87,
+    "timeWeek": 176,
+    "timeMonth": 140,
     "timeYear": 106,
     "dailyMinutesDown": {}
   },
@@ -43,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "17.27%",
+    "uptime": "17.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-20": 60,
+      "2024-08-21": 60,
+      "2024-08-20": 1440,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
@@ -417,8 +418,7 @@
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
-      "2023-08-23": 1440,
-      "2023-08-22": 1440
+      "2023-08-23": 1440
     }
   },
   {
@@ -427,18 +427,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.covid19india.org.ico",
     "slug": "covid-19-india",
     "status": "down",
-    "uptime": "99.76%",
+    "uptime": "99.67%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "60.02%",
-    "uptimeMonth": "90.80%",
-    "uptimeYear": "99.23%",
+    "uptimeWeek": "45.74%",
+    "uptimeMonth": "87.51%",
+    "uptimeYear": "98.96%",
     "time": 231,
     "timeDay": 0,
-    "timeWeek": 354,
-    "timeMonth": 288,
+    "timeWeek": 306,
+    "timeMonth": 283,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2024-08-20": 60,
+      "2024-08-21": 60,
+      "2024-08-20": 1440,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1090
@@ -455,11 +456,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 38,
-    "timeWeek": 182,
-    "timeMonth": 201,
-    "timeYear": 158,
+    "time": 159,
+    "timeDay": 630,
+    "timeWeek": 271,
+    "timeMonth": 218,
+    "timeYear": 159,
     "dailyMinutesDown": {}
   }
 ]
