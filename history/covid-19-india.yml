@@ -1,7 +1,7 @@
 url: https://www.covid19india.org/
-status: down
-code: 521
-responseTime: 306
-lastUpdated: 2024-08-21T23:16:45.650Z
+status: up
+code: 200
+responseTime: 411
+lastUpdated: 2024-08-22T00:44:03.467Z
 startTime: 2021-05-29T13:37:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
