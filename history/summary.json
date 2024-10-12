@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 92,
-    "timeWeek": 210,
-    "timeMonth": 225,
+    "timeDay": 159,
+    "timeWeek": 202,
+    "timeMonth": 223,
     "timeYear": 205,
     "dailyMinutesDown": {
       "2023-10-27": 17
@@ -26,17 +26,16 @@
     "slug": "socio-credz",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 104,
-    "timeWeek": 90,
-    "timeMonth": 278,
+    "timeDay": 105,
+    "timeWeek": 92,
+    "timeMonth": 276,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2024-10-11": 9,
       "2024-09-11": 20
     }
   },
@@ -46,7 +45,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "16.53%",
+    "uptime": "16.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -57,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-11": 1080,
+      "2024-10-12": 65,
+      "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
@@ -420,8 +420,7 @@
       "2023-10-17": 1440,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
-      "2023-10-14": 1440,
-      "2023-10-13": 1440
+      "2023-10-14": 1440
     }
   },
   {
@@ -435,10 +434,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.69%",
-    "time": 253,
-    "timeDay": 329,
-    "timeWeek": 338,
-    "timeMonth": 407,
+    "time": 254,
+    "timeDay": 535,
+    "timeWeek": 381,
+    "timeMonth": 411,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2024-08-22": 44,
@@ -461,9 +460,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 255,
-    "timeWeek": 158,
-    "timeMonth": 144,
+    "timeDay": 50,
+    "timeWeek": 142,
+    "timeMonth": 142,
     "timeYear": 158,
     "dailyMinutesDown": {}
   }
