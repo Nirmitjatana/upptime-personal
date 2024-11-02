@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 108,
-    "timeWeek": 186,
-    "timeMonth": 219,
+    "timeDay": 102,
+    "timeWeek": 138,
+    "timeMonth": 216,
     "timeYear": 199,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 461,
-    "timeWeek": 196,
-    "timeMonth": 154,
+    "timeDay": 60,
+    "timeWeek": 197,
+    "timeMonth": 139,
     "timeYear": 125,
     "dailyMinutesDown": {
       "2024-09-11": 20
@@ -43,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "16.26%",
+    "uptime": "16.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-01": 73,
+      "2024-11-02": 66,
+      "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -417,8 +418,7 @@
       "2023-11-07": 1440,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
-      "2023-11-04": 1440,
-      "2023-11-03": 1440
+      "2023-11-04": 1440
     }
   },
   {
@@ -432,10 +432,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.69%",
-    "time": 260,
-    "timeDay": 620,
-    "timeWeek": 390,
-    "timeMonth": 406,
+    "time": 261,
+    "timeDay": 545,
+    "timeWeek": 425,
+    "timeMonth": 408,
     "timeYear": 272,
     "dailyMinutesDown": {
       "2024-08-22": 44,
@@ -458,9 +458,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 49,
-    "timeWeek": 169,
-    "timeMonth": 155,
+    "timeDay": 89,
+    "timeWeek": 177,
+    "timeMonth": 153,
     "timeYear": 157,
     "dailyMinutesDown": {}
   }
