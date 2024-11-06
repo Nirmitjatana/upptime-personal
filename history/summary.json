@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 167,
-    "timeWeek": 209,
-    "timeMonth": 225,
+    "time": 213,
+    "timeDay": 172,
+    "timeWeek": 222,
+    "timeMonth": 226,
     "timeYear": 201,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 125,
-    "timeDay": 87,
-    "timeWeek": 120,
-    "timeMonth": 131,
-    "timeYear": 125,
+    "time": 126,
+    "timeDay": 488,
+    "timeWeek": 185,
+    "timeMonth": 144,
+    "timeYear": 126,
     "dailyMinutesDown": {
       "2024-09-11": 20
     }
@@ -43,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "16.21%",
+    "uptime": "16.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-05": 66,
+      "2024-11-06": 66,
+      "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
@@ -417,8 +418,7 @@
       "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
-      "2023-11-08": 1440,
-      "2023-11-07": 1440
+      "2023-11-08": 1440
     }
   },
   {
@@ -433,10 +433,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.69%",
     "time": 262,
-    "timeDay": 314,
-    "timeWeek": 426,
-    "timeMonth": 398,
-    "timeYear": 274,
+    "timeDay": 561,
+    "timeWeek": 472,
+    "timeMonth": 399,
+    "timeYear": 275,
     "dailyMinutesDown": {
       "2024-08-22": 44,
       "2024-08-21": 1440,
@@ -458,9 +458,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 154,
-    "timeDay": 93,
-    "timeWeek": 152,
-    "timeMonth": 135,
+    "timeDay": 116,
+    "timeWeek": 77,
+    "timeMonth": 124,
     "timeYear": 157,
     "dailyMinutesDown": {}
   }
