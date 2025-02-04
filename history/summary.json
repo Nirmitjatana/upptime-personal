@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 516,
-    "timeWeek": 259,
-    "timeMonth": 259,
-    "timeYear": 210,
+    "timeDay": 361,
+    "timeWeek": 284,
+    "timeMonth": 261,
+    "timeYear": 211,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 130,
-    "timeDay": 196,
-    "timeWeek": 204,
-    "timeMonth": 177,
+    "time": 129,
+    "timeDay": 51,
+    "timeWeek": 197,
+    "timeMonth": 167,
     "timeYear": 138,
     "dailyMinutesDown": {
       "2024-09-11": 20
@@ -43,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "15.12%",
+    "uptime": "15.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-03": 67,
+      "2025-02-04": 66,
+      "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
@@ -417,8 +418,7 @@
       "2024-02-09": 1440,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
-      "2024-02-06": 1440,
-      "2024-02-05": 1440
+      "2024-02-06": 1440
     }
   },
   {
@@ -433,10 +433,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.69%",
     "time": 299,
-    "timeDay": 520,
-    "timeWeek": 455,
-    "timeMonth": 448,
-    "timeYear": 329,
+    "timeDay": 560,
+    "timeWeek": 465,
+    "timeMonth": 455,
+    "timeYear": 330,
     "dailyMinutesDown": {
       "2024-08-22": 44,
       "2024-08-21": 1440,
@@ -457,10 +457,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 154,
-    "timeDay": 34,
-    "timeWeek": 63,
-    "timeMonth": 114,
+    "time": 153,
+    "timeDay": 55,
+    "timeWeek": 64,
+    "timeMonth": 112,
     "timeYear": 168,
     "dailyMinutesDown": {}
   }
