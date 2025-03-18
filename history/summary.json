@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 274,
-    "timeWeek": 288,
-    "timeMonth": 259,
-    "timeYear": 219,
+    "time": 213,
+    "timeDay": 665,
+    "timeWeek": 349,
+    "timeMonth": 278,
+    "timeYear": 221,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 135,
-    "timeDay": 280,
-    "timeWeek": 151,
-    "timeMonth": 196,
-    "timeYear": 147,
+    "timeDay": 353,
+    "timeWeek": 184,
+    "timeMonth": 206,
+    "timeYear": 148,
     "dailyMinutesDown": {
       "2025-02-18": 25,
       "2024-09-11": 20
@@ -44,7 +44,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "14.67%",
+    "uptime": "14.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -55,7 +55,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-17": 74,
+      "2025-03-18": 72,
+      "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
@@ -418,8 +419,7 @@
       "2024-03-22": 1440,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
-      "2024-03-19": 1440,
-      "2024-03-18": 1440
+      "2024-03-19": 1440
     }
   },
   {
@@ -434,9 +434,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.69%",
     "time": 316,
-    "timeDay": 221,
-    "timeWeek": 375,
-    "timeMonth": 413,
+    "timeDay": 257,
+    "timeWeek": 345,
+    "timeMonth": 400,
     "timeYear": 353,
     "dailyMinutesDown": {
       "2024-08-22": 44,
@@ -458,10 +458,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 156,
-    "timeDay": 84,
-    "timeWeek": 161,
-    "timeMonth": 180,
+    "time": 155,
+    "timeDay": 40,
+    "timeWeek": 148,
+    "timeMonth": 178,
     "timeYear": 152,
     "dailyMinutesDown": {}
   }
