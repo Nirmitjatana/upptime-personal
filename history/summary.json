@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 243,
-    "timeWeek": 198,
-    "timeMonth": 236,
-    "timeYear": 224,
+    "timeDay": 239,
+    "timeWeek": 207,
+    "timeMonth": 239,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 143,
-    "timeDay": 732,
-    "timeWeek": 185,
-    "timeMonth": 201,
-    "timeYear": 157,
+    "time": 144,
+    "timeDay": 566,
+    "timeWeek": 260,
+    "timeMonth": 214,
+    "timeYear": 158,
     "dailyMinutesDown": {
       "2025-02-18": 25,
       "2024-09-11": 20
@@ -44,7 +44,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "14.33%",
+    "uptime": "14.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -55,7 +55,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-19": 72,
+      "2025-04-20": 80,
+      "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
@@ -418,8 +419,7 @@
       "2024-04-24": 1440,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
-      "2024-04-21": 1440,
-      "2024-04-20": 1440
+      "2024-04-21": 1440
     }
   },
   {
@@ -433,11 +433,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.69%",
-    "time": 328,
-    "timeDay": 421,
-    "timeWeek": 440,
-    "timeMonth": 404,
-    "timeYear": 368,
+    "time": 329,
+    "timeDay": 459,
+    "timeWeek": 432,
+    "timeMonth": 401,
+    "timeYear": 369,
     "dailyMinutesDown": {
       "2024-08-22": 44,
       "2024-08-21": 1440,
@@ -459,10 +459,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
-    "timeDay": 423,
-    "timeWeek": 211,
-    "timeMonth": 139,
-    "timeYear": 153,
+    "timeDay": 334,
+    "timeWeek": 253,
+    "timeMonth": 148,
+    "timeYear": 154,
     "dailyMinutesDown": {}
   }
 ]
