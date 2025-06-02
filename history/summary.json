@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 224,
-    "timeDay": 157,
-    "timeWeek": 247,
-    "timeMonth": 262,
-    "timeYear": 234,
+    "timeDay": 392,
+    "timeWeek": 287,
+    "timeMonth": 257,
+    "timeYear": 235,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 149,
-    "timeDay": 234,
-    "timeWeek": 224,
-    "timeMonth": 168,
-    "timeYear": 166,
+    "time": 150,
+    "timeDay": 760,
+    "timeWeek": 318,
+    "timeMonth": 189,
+    "timeYear": 168,
     "dailyMinutesDown": {
       "2025-02-18": 25,
       "2024-09-11": 20
@@ -44,7 +44,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "13.90%",
+    "uptime": "13.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -55,7 +55,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-01": 101,
+      "2025-06-02": 82,
+      "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
@@ -418,8 +419,7 @@
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
-      "2024-06-03": 1440,
-      "2024-06-02": 1440
+      "2024-06-03": 1440
     }
   },
   {
@@ -433,10 +433,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.69%",
-    "time": 349,
-    "timeDay": 253,
-    "timeWeek": 359,
-    "timeMonth": 444,
+    "time": 350,
+    "timeDay": 495,
+    "timeWeek": 356,
+    "timeMonth": 445,
     "timeYear": 393,
     "dailyMinutesDown": {
       "2024-08-22": 44,
@@ -459,8 +459,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 162,
-    "timeDay": 36,
-    "timeWeek": 155,
+    "timeDay": 115,
+    "timeWeek": 166,
     "timeMonth": 163,
     "timeYear": 157,
     "dailyMinutesDown": {}
