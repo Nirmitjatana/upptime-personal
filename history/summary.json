@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 248,
-    "timeDay": 1083,
-    "timeWeek": 502,
-    "timeMonth": 343,
-    "timeYear": 272,
+    "time": 249,
+    "timeDay": 392,
+    "timeWeek": 537,
+    "timeMonth": 331,
+    "timeYear": 273,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 165,
-    "timeDay": 517,
-    "timeWeek": 291,
-    "timeMonth": 190,
-    "timeYear": 185,
+    "time": 166,
+    "timeDay": 460,
+    "timeWeek": 328,
+    "timeMonth": 200,
+    "timeYear": 186,
     "dailyMinutesDown": {
       "2025-02-18": 25,
       "2024-09-11": 20
@@ -44,7 +44,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "13.18%",
+    "uptime": "13.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -55,7 +55,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-21": 75,
+      "2025-08-22": 76,
+      "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
@@ -418,8 +419,7 @@
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
-      "2024-08-23": 1440,
-      "2024-08-22": 1440
+      "2024-08-23": 1440
     }
   },
   {
@@ -428,19 +428,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.covid19india.org.ico",
     "slug": "covid-19-india",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.73%",
-    "time": 396,
-    "timeDay": 1255,
-    "timeWeek": 670,
-    "timeMonth": 552,
-    "timeYear": 447,
-    "dailyMinutesDown": {
-      "2024-08-22": 44
-    }
+    "uptimeYear": "100.00%",
+    "time": 398,
+    "timeDay": 1244,
+    "timeWeek": 750,
+    "timeMonth": 574,
+    "timeYear": 450,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portal",
@@ -454,9 +452,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 170,
-    "timeDay": 50,
-    "timeWeek": 189,
-    "timeMonth": 272,
+    "timeDay": 308,
+    "timeWeek": 188,
+    "timeMonth": 262,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2025-07-24": 34
