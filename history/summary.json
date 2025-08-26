@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 133,
-    "timeWeek": 564,
-    "timeMonth": 336,
-    "timeYear": 274,
+    "time": 251,
+    "timeDay": 957,
+    "timeWeek": 655,
+    "timeMonth": 358,
+    "timeYear": 276,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 167,
-    "timeDay": 329,
-    "timeWeek": 334,
-    "timeMonth": 192,
-    "timeYear": 187,
+    "timeDay": 110,
+    "timeWeek": 333,
+    "timeMonth": 193,
+    "timeYear": 186,
     "dailyMinutesDown": {
       "2025-02-18": 25,
       "2024-09-11": 20
@@ -44,7 +44,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "13.14%",
+    "uptime": "13.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -55,7 +55,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-25": 79,
+      "2025-08-26": 77,
+      "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -418,8 +419,7 @@
       "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
-      "2024-08-27": 1440,
-      "2024-08-26": 1440
+      "2024-08-27": 1440
     }
   },
   {
@@ -433,11 +433,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 399,
-    "timeDay": 271,
-    "timeWeek": 702,
-    "timeMonth": 558,
-    "timeYear": 449,
+    "time": 401,
+    "timeDay": 1395,
+    "timeWeek": 825,
+    "timeMonth": 579,
+    "timeYear": 452,
     "dailyMinutesDown": {}
   },
   {
@@ -452,10 +452,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 170,
-    "timeDay": 35,
-    "timeWeek": 125,
-    "timeMonth": 200,
-    "timeYear": 170,
+    "timeDay": 412,
+    "timeWeek": 164,
+    "timeMonth": 197,
+    "timeYear": 171,
     "dailyMinutesDown": {
       "2025-07-24": 34
     }
