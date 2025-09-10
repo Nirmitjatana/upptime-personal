@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 257,
-    "timeDay": 299,
-    "timeWeek": 406,
-    "timeMonth": 377,
-    "timeYear": 279,
+    "timeDay": 349,
+    "timeWeek": 433,
+    "timeMonth": 380,
+    "timeYear": 278,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 169,
-    "timeDay": 151,
-    "timeWeek": 240,
-    "timeMonth": 212,
-    "timeYear": 188,
+    "time": 170,
+    "timeDay": 529,
+    "timeWeek": 257,
+    "timeMonth": 224,
+    "timeYear": 189,
     "dailyMinutesDown": {
       "2025-02-18": 25,
       "2024-09-11": 20
@@ -55,7 +55,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-09": 239,
+      "2025-09-10": 71,
+      "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
@@ -418,8 +419,7 @@
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
-      "2024-09-11": 1440,
-      "2024-09-10": 1440
+      "2024-09-11": 1440
     }
   },
   {
@@ -429,18 +429,16 @@
     "slug": "covid-19-india",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 412,
-    "timeDay": 598,
-    "timeWeek": 513,
+    "timeDay": 584,
+    "timeWeek": 516,
     "timeMonth": 603,
     "timeYear": 457,
-    "dailyMinutesDown": {
-      "2025-09-09": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portal",
@@ -453,10 +451,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 175,
-    "timeDay": 214,
-    "timeWeek": 320,
-    "timeMonth": 247,
+    "time": 176,
+    "timeDay": 289,
+    "timeWeek": 310,
+    "timeMonth": 252,
     "timeYear": 176,
     "dailyMinutesDown": {
       "2025-07-24": 34
