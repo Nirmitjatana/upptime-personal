@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 258,
-    "timeDay": 444,
-    "timeWeek": 459,
-    "timeMonth": 389,
+    "timeDay": 288,
+    "timeWeek": 427,
+    "timeMonth": 392,
     "timeYear": 279,
     "dailyMinutesDown": {}
   },
@@ -27,11 +27,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 246,
-    "timeWeek": 222,
-    "timeMonth": 224,
+    "timeDay": 145,
+    "timeWeek": 236,
+    "timeMonth": 221,
     "timeYear": 188,
     "dailyMinutesDown": {
       "2025-02-18": 25
@@ -43,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "13.00%",
+    "uptime": "12.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-11": 73,
+      "2025-09-12": 70,
+      "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
@@ -417,8 +418,7 @@
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
-      "2024-09-13": 1440,
-      "2024-09-12": 1440
+      "2024-09-13": 1440
     }
   },
   {
@@ -432,11 +432,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 413,
-    "timeDay": 747,
-    "timeWeek": 568,
-    "timeMonth": 613,
-    "timeYear": 457,
+    "time": 424,
+    "timeDay": 5377,
+    "timeWeek": 1186,
+    "timeMonth": 766,
+    "timeYear": 471,
     "dailyMinutesDown": {}
   },
   {
@@ -451,10 +451,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 176,
-    "timeDay": 316,
-    "timeWeek": 342,
-    "timeMonth": 258,
-    "timeYear": 177,
+    "timeDay": 509,
+    "timeWeek": 343,
+    "timeMonth": 262,
+    "timeYear": 178,
     "dailyMinutesDown": {
       "2025-07-24": 34
     }
