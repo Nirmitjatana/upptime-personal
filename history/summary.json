@@ -22,9 +22,9 @@
     "url": "https://sociocredz.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/sociocredz.netlify.app.ico",
     "slug": "socio-credz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 170,
     "timeYear": 179,
     "dailyMinutesDown": {
+      "2025-10-20": 1,
       "2025-02-18": 25
     }
   },
@@ -54,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-20": 956,
+      "2025-10-20": 982,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -444,9 +445,9 @@
     "url": "https://rekursion-vithack2020.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/rekursion-vithack2020.netlify.app.ico",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.73%",
+    "uptimeDay": "98.72%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
