@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-29": 79,
+      "2025-10-29": 1220,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
@@ -429,18 +429,20 @@
     "url": "https://www.covid19india.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.covid19india.org.ico",
     "slug": "covid-19-india",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 457,
-    "timeDay": 564,
-    "timeWeek": 494,
-    "timeMonth": 628,
-    "timeYear": 495,
-    "dailyMinutesDown": {}
+    "timeDay": 392,
+    "timeWeek": 460,
+    "timeMonth": 615,
+    "timeYear": 494,
+    "dailyMinutesDown": {
+      "2025-10-29": 0
+    }
   },
   {
     "name": "Portal",
