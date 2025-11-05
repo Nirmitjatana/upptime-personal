@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 271,
-    "timeDay": 509,
-    "timeWeek": 228,
-    "timeMonth": 284,
-    "timeYear": 291,
+    "time": 272,
+    "timeDay": 540,
+    "timeWeek": 282,
+    "timeMonth": 294,
+    "timeYear": 292,
     "dailyMinutesDown": {
       "2025-10-20": 46
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
     "time": 181,
-    "timeDay": 34,
-    "timeWeek": 156,
-    "timeMonth": 203,
+    "timeDay": 56,
+    "timeWeek": 157,
+    "timeMonth": 202,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2025-10-20": 69,
@@ -57,7 +57,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-04": 318,
+      "2025-11-05": 78,
+      "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
@@ -420,8 +421,7 @@
       "2024-11-09": 1440,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
-      "2024-11-06": 1440,
-      "2024-11-05": 1440
+      "2024-11-06": 1440
     }
   },
   {
@@ -431,15 +431,15 @@
     "slug": "covid-19-india",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "96.82%",
+    "uptimeDay": "98.43%",
     "uptimeWeek": "99.36%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
-    "time": 468,
-    "timeDay": 490,
-    "timeWeek": 578,
-    "timeMonth": 549,
-    "timeYear": 499,
+    "time": 469,
+    "timeDay": 472,
+    "timeWeek": 587,
+    "timeMonth": 553,
+    "timeYear": 500,
     "dailyMinutesDown": {
       "2025-11-04": 23,
       "2025-11-03": 23,
@@ -457,11 +457,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
-    "time": 191,
-    "timeDay": 33,
-    "timeWeek": 110,
-    "timeMonth": 241,
-    "timeYear": 193,
+    "time": 190,
+    "timeDay": 35,
+    "timeWeek": 106,
+    "timeMonth": 222,
+    "timeYear": 192,
     "dailyMinutesDown": {
       "2025-10-20": 87,
       "2025-07-24": 34
