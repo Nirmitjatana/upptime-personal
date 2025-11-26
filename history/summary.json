@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.36%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.96%",
-    "time": 278,
-    "timeDay": 248,
-    "timeWeek": 288,
-    "timeMonth": 273,
-    "timeYear": 294,
+    "time": 279,
+    "timeDay": 515,
+    "timeWeek": 338,
+    "timeMonth": 282,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2025-11-18": 165,
       "2025-10-20": 46
@@ -32,8 +32,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 195,
-    "timeDay": 54,
-    "timeWeek": 263,
+    "timeDay": 34,
+    "timeWeek": 249,
     "timeMonth": 368,
     "timeYear": 199,
     "dailyMinutesDown": {
@@ -58,7 +58,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-25": 78,
+      "2025-11-26": 78,
+      "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
@@ -421,8 +422,7 @@
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
-      "2024-11-27": 1440,
-      "2024-11-26": 1440
+      "2024-11-27": 1440
     }
   },
   {
@@ -432,15 +432,15 @@
     "slug": "covid-19-india",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "95.93%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.80%",
     "uptimeMonth": "98.94%",
     "uptimeYear": "99.91%",
-    "time": 482,
-    "timeDay": 920,
-    "timeWeek": 830,
-    "timeMonth": 663,
-    "timeYear": 534,
+    "time": 483,
+    "timeDay": 842,
+    "timeWeek": 848,
+    "timeMonth": 667,
+    "timeYear": 536,
     "dailyMinutesDown": {
       "2025-11-24": 58,
       "2025-11-22": 59,
@@ -470,10 +470,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 188,
-    "timeDay": 39,
-    "timeWeek": 305,
-    "timeMonth": 206,
-    "timeYear": 198,
+    "timeDay": 34,
+    "timeWeek": 289,
+    "timeMonth": 203,
+    "timeYear": 197,
     "dailyMinutesDown": {
       "2025-10-20": 87,
       "2025-07-24": 34
