@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.96%",
-    "time": 279,
-    "timeDay": 125,
-    "timeWeek": 224,
-    "timeMonth": 278,
+    "time": 278,
+    "timeDay": 127,
+    "timeWeek": 206,
+    "timeMonth": 277,
     "timeYear": 294,
     "dailyMinutesDown": {
       "2025-11-18": 165,
@@ -33,9 +33,9 @@
     "uptimeYear": "99.98%",
     "time": 194,
     "timeDay": 33,
-    "timeWeek": 111,
-    "timeMonth": 362,
-    "timeYear": 199,
+    "timeWeek": 94,
+    "timeMonth": 361,
+    "timeYear": 198,
     "dailyMinutesDown": {
       "2025-10-20": 69,
       "2025-02-18": 25
@@ -47,7 +47,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "12.38%",
+    "uptime": "12.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -58,7 +58,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-28": 1124,
+      "2025-11-29": 76,
+      "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
@@ -421,8 +422,7 @@
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
-      "2024-11-30": 1440,
-      "2024-11-29": 1440
+      "2024-11-30": 1440
     }
   },
   {
@@ -436,11 +436,11 @@
     "uptimeWeek": "98.56%",
     "uptimeMonth": "98.87%",
     "uptimeYear": "99.91%",
-    "time": 492,
-    "timeDay": 537,
-    "timeWeek": 788,
-    "timeMonth": 704,
-    "timeYear": 544,
+    "time": 493,
+    "timeDay": 639,
+    "timeWeek": 798,
+    "timeMonth": 707,
+    "timeYear": 545,
     "dailyMinutesDown": {
       "2025-11-28": 28,
       "2025-11-24": 58,
@@ -471,9 +471,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 188,
-    "timeDay": 33,
-    "timeWeek": 139,
-    "timeMonth": 202,
+    "timeDay": 34,
+    "timeWeek": 120,
+    "timeMonth": 201,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2025-10-20": 87,
