@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 297,
-    "timeDay": 343,
-    "timeWeek": 427,
-    "timeMonth": 412,
-    "timeYear": 322,
+    "timeDay": 201,
+    "timeWeek": 424,
+    "timeMonth": 407,
+    "timeYear": 321,
     "dailyMinutesDown": {
       "2025-11-18": 165,
       "2025-10-20": 46
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 200,
-    "timeDay": 92,
-    "timeWeek": 283,
-    "timeMonth": 197,
-    "timeYear": 207,
+    "time": 201,
+    "timeDay": 383,
+    "timeWeek": 251,
+    "timeMonth": 206,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2025-10-20": 69,
       "2025-02-18": 25
@@ -58,7 +58,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-02": 601,
+      "2026-02-03": 115,
+      "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
@@ -421,8 +422,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 1440,
-      "2025-02-03": 1440
+      "2025-02-04": 1440
     }
   },
   {
@@ -432,13 +432,13 @@
     "slug": "covid-19-india",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "79.10%",
-    "uptimeWeek": "89.25%",
-    "uptimeMonth": "92.94%",
+    "uptimeDay": "89.01%",
+    "uptimeWeek": "89.90%",
+    "uptimeMonth": "92.98%",
     "uptimeYear": "99.29%",
     "time": 555,
-    "timeDay": 438,
-    "timeWeek": 484,
+    "timeDay": 590,
+    "timeWeek": 493,
     "timeMonth": 584,
     "timeYear": 580,
     "dailyMinutesDown": {
@@ -496,11 +496,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 197,
-    "timeDay": 89,
-    "timeWeek": 320,
-    "timeMonth": 242,
-    "timeYear": 216,
+    "time": 198,
+    "timeDay": 528,
+    "timeWeek": 313,
+    "timeMonth": 251,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2025-10-20": 87,
       "2025-07-24": 34
