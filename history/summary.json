@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/iris.dscvit.com.ico",
     "slug": "iris",
     "status": "up",
-    "uptime": "95.81%",
+    "uptime": "95.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.89%",
+    "uptimeYear": "79.86%",
     "time": 334,
     "timeDay": 719,
     "timeWeek": 530,
     "timeMonth": 427,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2026-04-23": 1437,
+      "2026-04-24": 145,
+      "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
       "2026-04-20": 1440,
@@ -120,7 +121,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "11.37%",
+    "uptime": "11.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -131,7 +132,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-23": 1437,
+      "2026-04-24": 145,
+      "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
       "2026-04-20": 1440,
@@ -494,8 +496,7 @@
       "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
-      "2025-04-25": 1440,
-      "2025-04-24": 1440
+      "2025-04-25": 1440
     }
   },
   {
@@ -505,17 +506,17 @@
     "slug": "covid-19-india",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "80.83%",
-    "uptimeWeek": "92.90%",
-    "uptimeMonth": "90.95%",
-    "uptimeYear": "98.78%",
+    "uptimeDay": "81.28%",
+    "uptimeWeek": "93.69%",
+    "uptimeMonth": "90.96%",
+    "uptimeYear": "98.77%",
     "time": 555,
     "timeDay": 907,
-    "timeWeek": 746,
+    "timeWeek": 753,
     "timeMonth": 554,
     "timeYear": 571,
     "dailyMinutesDown": {
-      "2026-04-23": 275,
+      "2026-04-23": 269,
       "2026-04-22": 99,
       "2026-04-21": 63,
       "2026-04-20": 43,
@@ -555,7 +556,7 @@
       "2026-03-14": 276,
       "2026-03-13": 312,
       "2026-03-12": 427,
-      "2026-03-11": 176
+      "2026-03-11": 212
     }
   },
   {
