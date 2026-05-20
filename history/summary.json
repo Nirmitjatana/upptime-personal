@@ -8,13 +8,13 @@
     "uptime": "94.96%",
     "uptimeDay": "94.50%",
     "uptimeWeek": "99.21%",
-    "uptimeMonth": "32.67%",
+    "uptimeMonth": "33.30%",
     "uptimeYear": "75.40%",
     "time": 353,
-    "timeDay": 1218,
-    "timeWeek": 638,
-    "timeMonth": 562,
-    "timeYear": 380,
+    "timeDay": 1104,
+    "timeWeek": 608,
+    "timeMonth": 547,
+    "timeYear": 379,
     "dailyMinutesDown": {
       "2026-05-19": 79,
       "2026-05-10": 511,
@@ -124,10 +124,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 236,
-    "timeDay": 564,
-    "timeWeek": 479,
-    "timeMonth": 418,
-    "timeYear": 255,
+    "timeDay": 344,
+    "timeWeek": 455,
+    "timeMonth": 407,
+    "timeYear": 256,
     "dailyMinutesDown": {
       "2025-10-20": 69
     }
@@ -149,7 +149,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-19": 1336,
+      "2026-05-20": 174,
+      "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
       "2026-05-16": 1440,
@@ -512,8 +513,7 @@
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
-      "2025-05-21": 1440,
-      "2025-05-20": 1440
+      "2025-05-21": 1440
     }
   },
   {
@@ -525,13 +525,13 @@
     "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.15%",
-    "uptimeMonth": "87.87%",
+    "uptimeMonth": "87.88%",
     "uptimeYear": "98.32%",
     "time": 577,
-    "timeDay": 1011,
-    "timeWeek": 789,
-    "timeMonth": 868,
-    "timeYear": 597,
+    "timeDay": 907,
+    "timeWeek": 799,
+    "timeMonth": 874,
+    "timeYear": 598,
     "dailyMinutesDown": {
       "2026-05-17": 69,
       "2026-05-16": 214,
@@ -596,10 +596,10 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.96%",
     "time": 266,
-    "timeDay": 1350,
-    "timeWeek": 827,
-    "timeMonth": 635,
-    "timeYear": 309,
+    "timeDay": 1311,
+    "timeWeek": 792,
+    "timeMonth": 626,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2026-05-19": 79,
       "2025-10-20": 87,
