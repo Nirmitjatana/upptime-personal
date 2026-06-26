@@ -138,7 +138,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "10.98%",
+    "uptime": "10.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -149,7 +149,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-26": 203,
+      "2026-06-26": 1094,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -521,19 +521,18 @@
     "url": "https://www.covid19india.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.covid19india.org.ico",
     "slug": "covid-19-india",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "88.07%",
-    "uptimeWeek": "84.33%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "87.64%",
     "uptimeMonth": "75.76%",
     "uptimeYear": "96.76%",
     "time": 578,
-    "timeDay": 333,
-    "timeWeek": 368,
-    "timeMonth": 529,
+    "timeDay": 258,
+    "timeWeek": 361,
+    "timeMonth": 525,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2026-04-19": 33,
       "2026-04-20": 43,
       "2026-04-21": 63,
       "2026-04-22": 99,
@@ -585,7 +584,8 @@
       "2026-06-20": 282,
       "2026-06-21": 224,
       "2026-06-22": 346,
-      "2026-06-25": 253
+      "2026-06-25": 253,
+      "2026-06-26": 0
     }
   },
   {
