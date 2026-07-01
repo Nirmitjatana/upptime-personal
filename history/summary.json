@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "75.40%",
-    "time": 367,
-    "timeDay": 643,
-    "timeWeek": 435,
-    "timeMonth": 455,
-    "timeYear": 394,
+    "time": 368,
+    "timeDay": 689,
+    "timeWeek": 504,
+    "timeMonth": 472,
+    "timeYear": 395,
     "dailyMinutesDown": {
       "2025-10-20": 46,
       "2025-11-18": 165,
@@ -124,10 +124,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 254,
-    "timeDay": 591,
-    "timeWeek": 436,
-    "timeMonth": 385,
-    "timeYear": 273,
+    "timeDay": 730,
+    "timeWeek": 480,
+    "timeMonth": 396,
+    "timeYear": 274,
     "dailyMinutesDown": {
       "2025-10-20": 69
     }
@@ -141,7 +141,7 @@
     "uptime": "10.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -149,7 +149,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 1399,
+      "2026-07-01": 95,
+      "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -512,8 +513,7 @@
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
-      "2025-07-02": 1440,
-      "2025-07-01": 1440
+      "2025-07-02": 1440
     }
   },
   {
@@ -521,19 +521,19 @@
     "url": "https://www.covid19india.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.covid19india.org.ico",
     "slug": "covid-19-india",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "86.18%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "87.88%",
     "uptimeWeek": "91.38%",
     "uptimeMonth": "75.85%",
-    "uptimeYear": "96.70%",
+    "uptimeYear": "96.73%",
     "time": 577,
-    "timeDay": 326,
-    "timeWeek": 370,
-    "timeMonth": 497,
+    "timeDay": 364,
+    "timeWeek": 350,
+    "timeMonth": 484,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2026-04-23": 210,
+      "2026-04-23": 54,
       "2026-04-24": 714,
       "2026-04-25": 940,
       "2026-04-26": 680,
@@ -584,7 +584,8 @@
       "2026-06-25": 253,
       "2026-06-26": 118,
       "2026-06-29": 318,
-      "2026-06-30": 182
+      "2026-06-30": 182,
+      "2026-07-01": 0
     }
   },
   {
@@ -598,11 +599,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 293,
-    "timeDay": 545,
-    "timeWeek": 509,
-    "timeMonth": 456,
-    "timeYear": 333,
+    "time": 295,
+    "timeDay": 694,
+    "timeWeek": 535,
+    "timeMonth": 462,
+    "timeYear": 334,
     "dailyMinutesDown": {
       "2025-07-24": 34,
       "2025-10-20": 87,
