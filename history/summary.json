@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "75.40%",
-    "time": 371,
-    "timeDay": 617,
-    "timeWeek": 464,
-    "timeMonth": 449,
+    "time": 372,
+    "timeDay": 773,
+    "timeWeek": 555,
+    "timeMonth": 462,
     "timeYear": 394,
     "dailyMinutesDown": {
       "2025-10-20": 46,
@@ -123,11 +123,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 260,
-    "timeDay": 2092,
-    "timeWeek": 659,
-    "timeMonth": 427,
-    "timeYear": 283,
+    "time": 261,
+    "timeDay": 836,
+    "timeWeek": 729,
+    "timeMonth": 445,
+    "timeYear": 285,
     "dailyMinutesDown": {
       "2025-10-20": 69
     }
@@ -149,7 +149,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-09": 159,
+      "2026-07-10": 161,
+      "2026-07-09": 1440,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
@@ -512,8 +513,7 @@
       "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
-      "2025-07-11": 1440,
-      "2025-07-10": 1440
+      "2025-07-11": 1440
     }
   },
   {
@@ -523,13 +523,13 @@
     "slug": "covid-19-india",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "93.28%",
-    "uptimeWeek": "87.02%",
-    "uptimeMonth": "78.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "90.26%",
+    "uptimeMonth": "79.76%",
     "uptimeYear": "96.69%",
     "time": 574,
-    "timeDay": 217,
-    "timeWeek": 288,
+    "timeDay": 736,
+    "timeWeek": 309,
     "timeMonth": 416,
     "timeYear": 587,
     "dailyMinutesDown": {
@@ -604,11 +604,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 300,
-    "timeDay": 1235,
-    "timeWeek": 617,
-    "timeMonth": 474,
-    "timeYear": 344,
+    "time": 302,
+    "timeDay": 696,
+    "timeWeek": 644,
+    "timeMonth": 480,
+    "timeYear": 346,
     "dailyMinutesDown": {
       "2025-07-24": 34,
       "2025-10-20": 87,
