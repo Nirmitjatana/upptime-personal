@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "75.40%",
     "time": 380,
-    "timeDay": 673,
-    "timeWeek": 522,
-    "timeMonth": 521,
+    "timeDay": 414,
+    "timeWeek": 474,
+    "timeMonth": 509,
     "timeYear": 401,
     "dailyMinutesDown": {
       "2025-10-20": 46,
@@ -123,11 +123,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 271,
-    "timeDay": 154,
-    "timeWeek": 357,
-    "timeMonth": 513,
-    "timeYear": 298,
+    "time": 272,
+    "timeDay": 293,
+    "timeWeek": 359,
+    "timeMonth": 510,
+    "timeYear": 299,
     "dailyMinutesDown": {
       "2025-10-20": 69
     }
@@ -149,7 +149,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-28": 1411,
+      "2026-07-28": 1439,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
@@ -521,16 +521,16 @@
     "url": "https://www.covid19india.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.covid19india.org.ico",
     "slug": "covid-19-india",
-    "status": "down",
+    "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "92.98%",
-    "uptimeMonth": "86.58%",
-    "uptimeYear": "96.50%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "92.71%",
+    "uptimeMonth": "86.52%",
+    "uptimeYear": "96.49%",
     "time": 577,
-    "timeDay": 614,
-    "timeWeek": 494,
-    "timeMonth": 389,
+    "timeDay": 629,
+    "timeWeek": 506,
+    "timeMonth": 392,
     "timeYear": 584,
     "dailyMinutesDown": {
       "2026-05-11": 217,
@@ -592,7 +592,7 @@
       "2026-07-25": 269,
       "2026-07-26": 180,
       "2026-07-27": 128,
-      "2026-07-28": 0
+      "2026-07-28": 28
     }
   },
   {
@@ -606,10 +606,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 315,
-    "timeDay": 169,
-    "timeWeek": 421,
-    "timeMonth": 543,
+    "time": 316,
+    "timeDay": 375,
+    "timeWeek": 429,
+    "timeMonth": 544,
     "timeYear": 353,
     "dailyMinutesDown": {
       "2025-10-20": 87,
