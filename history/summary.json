@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "75.40%",
     "time": 384,
-    "timeDay": 682,
-    "timeWeek": 491,
-    "timeMonth": 494,
-    "timeYear": 404,
+    "timeDay": 0,
+    "timeWeek": 468,
+    "timeMonth": 492,
+    "timeYear": 405,
     "dailyMinutesDown": {
       "2025-10-20": 46,
       "2025-11-18": 165,
@@ -124,9 +124,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 275,
-    "timeDay": 499,
-    "timeWeek": 459,
-    "timeMonth": 517,
+    "timeDay": 0,
+    "timeWeek": 448,
+    "timeMonth": 516,
     "timeYear": 305,
     "dailyMinutesDown": {
       "2025-10-20": 69
@@ -149,7 +149,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-06": 822,
+      "2026-08-07": 101,
+      "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
       "2026-08-03": 1440,
@@ -512,8 +513,7 @@
       "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
-      "2025-08-08": 1440,
-      "2025-08-07": 1440
+      "2025-08-08": 1440
     }
   },
   {
@@ -521,19 +521,19 @@
     "url": "https://www.covid19india.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.covid19india.org.ico",
     "slug": "covid-19-india",
-    "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "71.94%",
-    "uptimeWeek": "83.19%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "81.44%",
+    "uptimeWeek": "84.74%",
     "uptimeMonth": "87.02%",
-    "uptimeYear": "96.48%",
+    "uptimeYear": "96.51%",
     "time": 576,
-    "timeDay": 3072,
-    "timeWeek": 1052,
-    "timeMonth": 597,
+    "timeDay": 4266,
+    "timeWeek": 1147,
+    "timeMonth": 600,
     "timeYear": 590,
     "dailyMinutesDown": {
-      "2026-05-27": 324,
+      "2026-05-27": 151,
       "2026-05-28": 1,
       "2026-05-30": 65,
       "2026-06-02": 261,
@@ -591,7 +591,8 @@
       "2026-08-03": 216,
       "2026-08-04": 509,
       "2026-08-05": 131,
-      "2026-08-06": 329
+      "2026-08-06": 329,
+      "2026-08-07": 0
     }
   },
   {
@@ -606,10 +607,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 322,
-    "timeDay": 564,
-    "timeWeek": 535,
-    "timeMonth": 549,
-    "timeYear": 362,
+    "timeDay": 0,
+    "timeWeek": 519,
+    "timeMonth": 547,
+    "timeYear": 363,
     "dailyMinutesDown": {
       "2025-10-20": 87,
       "2026-05-19": 79
