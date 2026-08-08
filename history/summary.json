@@ -149,7 +149,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 966,
+      "2026-08-08": 1006,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -521,16 +521,16 @@
     "url": "https://www.covid19india.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.covid19india.org.ico",
     "slug": "covid-19-india",
-    "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "89.21%",
-    "uptimeWeek": "84.29%",
-    "uptimeMonth": "86.55%",
-    "uptimeYear": "96.65%",
-    "time": 576,
-    "timeDay": 568,
-    "timeWeek": 946,
-    "timeMonth": 595,
+    "status": "up",
+    "uptime": "99.35%",
+    "uptimeDay": "86.45%",
+    "uptimeWeek": "83.90%",
+    "uptimeMonth": "86.46%",
+    "uptimeYear": "96.64%",
+    "time": 577,
+    "timeDay": 545,
+    "timeWeek": 922,
+    "timeMonth": 593,
     "timeYear": 589,
     "dailyMinutesDown": {
       "2026-06-04": 423,
@@ -589,7 +589,7 @@
       "2026-08-05": 131,
       "2026-08-06": 329,
       "2026-08-07": 114,
-      "2026-08-08": 155
+      "2026-08-08": 195
     }
   },
   {
