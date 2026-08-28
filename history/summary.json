@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "75.40%",
-    "time": 391,
-    "timeDay": 505,
-    "timeWeek": 489,
-    "timeMonth": 435,
-    "timeYear": 407,
+    "time": 392,
+    "timeDay": 761,
+    "timeWeek": 483,
+    "timeMonth": 438,
+    "timeYear": 408,
     "dailyMinutesDown": {
       "2025-10-20": 46,
       "2025-11-18": 165,
@@ -123,11 +123,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 281,
-    "timeDay": 383,
-    "timeWeek": 289,
-    "timeMonth": 350,
-    "timeYear": 311,
+    "time": 282,
+    "timeDay": 743,
+    "timeWeek": 329,
+    "timeMonth": 369,
+    "timeYear": 313,
     "dailyMinutesDown": {
       "2025-10-20": 69
     }
@@ -149,7 +149,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-27": 427,
+      "2026-08-28": 535,
+      "2026-08-27": 1440,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
@@ -512,8 +513,7 @@
       "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
-      "2025-08-29": 1440,
-      "2025-08-28": 1440
+      "2025-08-29": 1440
     }
   },
   {
@@ -523,14 +523,14 @@
     "slug": "covid-19-india",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "88.40%",
-    "uptimeWeek": "92.00%",
-    "uptimeMonth": "90.05%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "92.93%",
+    "uptimeMonth": "90.34%",
     "uptimeYear": "98.40%",
     "time": 580,
-    "timeDay": 616,
-    "timeWeek": 630,
-    "timeMonth": 666,
+    "timeDay": 285,
+    "timeWeek": 639,
+    "timeMonth": 664,
     "timeYear": 589,
     "dailyMinutesDown": {
       "2026-07-03": 222,
@@ -593,11 +593,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 331,
-    "timeDay": 572,
-    "timeWeek": 349,
-    "timeMonth": 413,
-    "timeYear": 370,
+    "time": 332,
+    "timeDay": 734,
+    "timeWeek": 377,
+    "timeMonth": 431,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2025-10-20": 87,
       "2026-05-19": 79
