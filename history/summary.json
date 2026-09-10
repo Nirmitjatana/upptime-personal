@@ -149,7 +149,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-10": 71,
+      "2026-09-10": 177,
       "2026-09-09": 1440,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
@@ -523,12 +523,12 @@
     "slug": "covid-19-india",
     "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "98.66%",
-    "uptimeWeek": "89.35%",
-    "uptimeMonth": "92.58%",
-    "uptimeYear": "98.27%",
+    "uptimeDay": "92.61%",
+    "uptimeWeek": "88.29%",
+    "uptimeMonth": "92.34%",
+    "uptimeYear": "98.25%",
     "time": 584,
-    "timeDay": 777,
+    "timeDay": 849,
     "timeWeek": 511,
     "timeMonth": 612,
     "timeYear": 591,
@@ -583,7 +583,7 @@
       "2026-09-05": 120,
       "2026-09-07": 44,
       "2026-09-09": 24,
-      "2026-09-10": 0
+      "2026-09-10": 106
     }
   },
   {
