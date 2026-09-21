@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/iris.dscvit.com.ico",
     "slug": "iris",
     "status": "up",
-    "uptime": "95.28%",
+    "uptime": "95.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "75.40%",
-    "time": 407,
-    "timeDay": 545,
-    "timeWeek": 639,
-    "timeMonth": 575,
-    "timeYear": 422,
+    "time": 408,
+    "timeDay": 609,
+    "timeWeek": 630,
+    "timeMonth": 569,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2025-10-20": 46,
       "2025-11-18": 165,
@@ -123,11 +123,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 297,
-    "timeDay": 567,
+    "time": 298,
+    "timeDay": 612,
     "timeWeek": 512,
-    "timeMonth": 465,
-    "timeYear": 333,
+    "timeMonth": 470,
+    "timeYear": 334,
     "dailyMinutesDown": {
       "2025-10-20": 69
     }
@@ -149,7 +149,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-20": 195,
+      "2026-09-21": 191,
+      "2026-09-20": 1440,
       "2026-09-19": 1440,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
@@ -512,8 +513,7 @@
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
-      "2025-09-22": 1440,
-      "2025-09-21": 1440
+      "2025-09-22": 1440
     }
   },
   {
@@ -523,14 +523,14 @@
     "slug": "covid-19-india",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "91.48%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "90.01%",
-    "uptimeMonth": "90.85%",
+    "uptimeMonth": "91.07%",
     "uptimeYear": "98.06%",
     "time": 586,
-    "timeDay": 406,
-    "timeWeek": 561,
-    "timeMonth": 621,
+    "timeDay": 615,
+    "timeWeek": 569,
+    "timeMonth": 628,
     "timeYear": 588,
     "dailyMinutesDown": {
       "2026-07-16": 0,
@@ -600,10 +600,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 353,
-    "timeDay": 611,
-    "timeWeek": 601,
-    "timeMonth": 526,
-    "timeYear": 389,
+    "timeDay": 652,
+    "timeWeek": 610,
+    "timeMonth": 530,
+    "timeYear": 390,
     "dailyMinutesDown": {
       "2025-10-20": 87,
       "2026-05-19": 79
