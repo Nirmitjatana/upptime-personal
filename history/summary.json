@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "75.40%",
-    "time": 408,
-    "timeDay": 500,
-    "timeWeek": 592,
-    "timeMonth": 575,
+    "time": 409,
+    "timeDay": 712,
+    "timeWeek": 622,
+    "timeMonth": 580,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2025-10-20": 46,
@@ -124,10 +124,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 299,
-    "timeDay": 419,
-    "timeWeek": 478,
-    "timeMonth": 473,
-    "timeYear": 334,
+    "timeDay": 192,
+    "timeWeek": 412,
+    "timeMonth": 463,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2025-10-20": 69
     }
@@ -149,7 +149,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-22": 330,
+      "2026-09-23": 190,
+      "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
       "2026-09-19": 1440,
@@ -512,8 +513,7 @@
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
-      "2025-09-24": 1440,
-      "2025-09-23": 1440
+      "2025-09-24": 1440
     }
   },
   {
@@ -523,13 +523,13 @@
     "slug": "covid-19-india",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "83.67%",
-    "uptimeWeek": "88.13%",
-    "uptimeMonth": "90.71%",
+    "uptimeDay": "90.32%",
+    "uptimeWeek": "91.42%",
+    "uptimeMonth": "90.94%",
     "uptimeYear": "98.02%",
     "time": 586,
-    "timeDay": 950,
-    "timeWeek": 593,
+    "timeDay": 732,
+    "timeWeek": 551,
     "timeMonth": 637,
     "timeYear": 588,
     "dailyMinutesDown": {
@@ -598,10 +598,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 354,
-    "timeDay": 470,
-    "timeWeek": 582,
-    "timeMonth": 531,
+    "time": 355,
+    "timeDay": 306,
+    "timeWeek": 543,
+    "timeMonth": 523,
     "timeYear": 391,
     "dailyMinutesDown": {
       "2025-10-20": 87,
