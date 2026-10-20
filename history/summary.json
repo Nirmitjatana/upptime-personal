@@ -10,13 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "75.40%",
-    "time": 421,
-    "timeDay": 480,
-    "timeWeek": 638,
-    "timeMonth": 571,
-    "timeYear": 443,
+    "time": 422,
+    "timeDay": 859,
+    "timeWeek": 666,
+    "timeMonth": 582,
+    "timeYear": 444,
     "dailyMinutesDown": {
-      "2025-10-20": 46,
       "2025-11-18": 165,
       "2026-05-10": 511,
       "2026-05-09": 1440,
@@ -123,14 +122,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 317,
-    "timeDay": 623,
-    "timeWeek": 427,
-    "timeMonth": 544,
-    "timeYear": 362,
-    "dailyMinutesDown": {
-      "2025-10-20": 69
-    }
+    "time": 318,
+    "timeDay": 802,
+    "timeWeek": 474,
+    "timeMonth": 552,
+    "timeYear": 364,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Spike App",
@@ -149,7 +146,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-19": 1381,
+      "2026-10-20": 196,
+      "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
@@ -512,8 +510,7 @@
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
-      "2025-10-21": 1440,
-      "2025-10-20": 1440
+      "2025-10-21": 1440
     }
   },
   {
@@ -528,9 +525,9 @@
     "uptimeMonth": "96.15%",
     "uptimeYear": "98.16%",
     "time": 589,
-    "timeDay": 509,
-    "timeWeek": 697,
-    "timeMonth": 624,
+    "timeDay": 522,
+    "timeWeek": 683,
+    "timeMonth": 623,
     "timeYear": 587,
     "dailyMinutesDown": {
       "2026-07-25": 269,
@@ -600,12 +597,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 373,
-    "timeDay": 581,
-    "timeWeek": 585,
-    "timeMonth": 583,
-    "timeYear": 415,
+    "timeDay": 694,
+    "timeWeek": 599,
+    "timeMonth": 586,
+    "timeYear": 417,
     "dailyMinutesDown": {
-      "2025-10-20": 87,
       "2026-05-19": 79
     }
   }
