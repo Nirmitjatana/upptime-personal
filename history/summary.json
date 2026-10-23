@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "75.41%",
     "time": 425,
-    "timeDay": 733,
-    "timeWeek": 687,
-    "timeMonth": 596,
-    "timeYear": 445,
+    "timeDay": 762,
+    "timeWeek": 688,
+    "timeMonth": 597,
+    "timeYear": 446,
     "dailyMinutesDown": {
       "2025-11-18": 165,
       "2026-05-10": 511,
@@ -122,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 579,
-    "timeWeek": 512,
-    "timeMonth": 563,
-    "timeYear": 365,
+    "time": 320,
+    "timeDay": 664,
+    "timeWeek": 583,
+    "timeMonth": 578,
+    "timeYear": 366,
     "dailyMinutesDown": {}
   },
   {
@@ -146,7 +146,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-22": 190,
+      "2026-10-23": 195,
+      "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -509,8 +510,7 @@
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
-      "2025-10-24": 1440,
-      "2025-10-23": 1440
+      "2025-10-24": 1440
     }
   },
   {
@@ -519,15 +519,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.covid19india.org.ico",
     "slug": "covid-19-india",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.25%",
-    "uptimeMonth": "95.98%",
+    "uptimeMonth": "96.30%",
     "uptimeYear": "98.14%",
     "time": 589,
-    "timeDay": 372,
-    "timeWeek": 458,
-    "timeMonth": 594,
+    "timeDay": 636,
+    "timeWeek": 469,
+    "timeMonth": 588,
     "timeYear": 587,
     "dailyMinutesDown": {
       "2026-07-25": 207,
@@ -597,10 +597,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 376,
-    "timeDay": 593,
-    "timeWeek": 633,
-    "timeMonth": 592,
+    "time": 375,
+    "timeDay": 334,
+    "timeWeek": 589,
+    "timeMonth": 593,
     "timeYear": 418,
     "dailyMinutesDown": {
       "2026-05-19": 79
