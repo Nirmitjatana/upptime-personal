@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/iris.dscvit.com.ico",
     "slug": "iris",
     "status": "up",
-    "uptime": "95.36%",
+    "uptime": "95.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "75.41%",
-    "time": 425,
-    "timeDay": 762,
-    "timeWeek": 688,
-    "timeMonth": 597,
-    "timeYear": 446,
+    "time": 426,
+    "timeDay": 791,
+    "timeWeek": 710,
+    "timeMonth": 613,
+    "timeYear": 448,
     "dailyMinutesDown": {
       "2025-11-18": 165,
       "2026-05-10": 511,
@@ -122,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 320,
-    "timeDay": 664,
-    "timeWeek": 583,
-    "timeMonth": 578,
-    "timeYear": 366,
+    "time": 322,
+    "timeDay": 752,
+    "timeWeek": 673,
+    "timeMonth": 582,
+    "timeYear": 368,
     "dailyMinutesDown": {}
   },
   {
@@ -135,7 +135,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "10.32%",
+    "uptime": "10.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -146,7 +146,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-23": 195,
+      "2026-10-24": 189,
+      "2026-10-23": 1440,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -509,8 +510,7 @@
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
-      "2025-10-25": 1440,
-      "2025-10-24": 1440
+      "2025-10-25": 1440
     }
   },
   {
@@ -525,8 +525,8 @@
     "uptimeMonth": "96.30%",
     "uptimeYear": "98.14%",
     "time": 589,
-    "timeDay": 636,
-    "timeWeek": 469,
+    "timeDay": 603,
+    "timeWeek": 486,
     "timeMonth": 588,
     "timeYear": 587,
     "dailyMinutesDown": {
@@ -597,11 +597,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 375,
-    "timeDay": 334,
-    "timeWeek": 589,
-    "timeMonth": 593,
-    "timeYear": 418,
+    "time": 376,
+    "timeDay": 595,
+    "timeWeek": 581,
+    "timeMonth": 594,
+    "timeYear": 419,
     "dailyMinutesDown": {
       "2026-05-19": 79
     }
