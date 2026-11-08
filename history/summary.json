@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "75.41%",
-    "time": 434,
-    "timeDay": 841,
-    "timeWeek": 600,
-    "timeMonth": 716,
-    "timeYear": 465,
+    "time": 435,
+    "timeDay": 877,
+    "timeWeek": 678,
+    "timeMonth": 718,
+    "timeYear": 466,
     "dailyMinutesDown": {
       "2025-11-18": 165,
       "2026-05-10": 511,
@@ -123,10 +123,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 335,
-    "timeDay": 699,
-    "timeWeek": 728,
-    "timeMonth": 609,
-    "timeYear": 386,
+    "timeDay": 272,
+    "timeWeek": 643,
+    "timeMonth": 595,
+    "timeYear": 387,
     "dailyMinutesDown": {}
   },
   {
@@ -135,7 +135,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.spikeapp.tech.ico",
     "slug": "spike-app",
     "status": "down",
-    "uptime": "10.24%",
+    "uptime": "10.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -146,7 +146,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-07": 270,
+      "2026-11-08": 256,
+      "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
@@ -509,8 +510,7 @@
       "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
-      "2025-11-09": 1440,
-      "2025-11-08": 1440
+      "2025-11-09": 1440
     }
   },
   {
@@ -525,8 +525,8 @@
     "uptimeMonth": "98.69%",
     "uptimeYear": "98.12%",
     "time": 591,
-    "timeDay": 487,
-    "timeWeek": 520,
+    "timeDay": 570,
+    "timeWeek": 517,
     "timeMonth": 653,
     "timeYear": 589,
     "dailyMinutesDown": {
@@ -599,11 +599,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 387,
-    "timeDay": 322,
-    "timeWeek": 631,
-    "timeMonth": 582,
-    "timeYear": 435,
+    "time": 388,
+    "timeDay": 785,
+    "timeWeek": 644,
+    "timeMonth": 584,
+    "timeYear": 436,
     "dailyMinutesDown": {
       "2026-05-19": 79
     }
